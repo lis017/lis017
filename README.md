@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 배운 언어들의 잘하는 순위를 매겨보자면   //숫자가 낮은순으로 더 공부했습니다.
 - 1. java
-- 2. HTML, javascript, Node.js, c
+- 2. HTML, javascript(jquery 가능), Node.js, c
 - 3. CSS, JSP, MySQL, python, c+
 
 <!---
