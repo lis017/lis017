@@ -7,7 +7,30 @@
   <br>
   :four_leaf_clover:skill<br>
   <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=OpenJDK&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-#E34F26?style=flat&logo=HTML5&logoColor=white"/>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!---
 GHLis20/GHLis20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
