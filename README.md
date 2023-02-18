@@ -12,6 +12,15 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+  <br>
+  <br>
+  <br>
+  :pencil2: Studying<br>
+  <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=OpenJDK&logoColor=white"/>
+  <br>
+  <br>
+  <br>
+  
 </div>
 
 
