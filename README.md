@@ -1,4 +1,4 @@
-README
+<h2>README</h2>
 <hr>
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hello%20i'm%20minHyeok&fontSize=90)
