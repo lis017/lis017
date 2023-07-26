@@ -5,6 +5,7 @@
   <br>
   <a  href = "https://lis7.tistory.com"> Blog </a>
   <br>
+  minhyeok12.dev@gmail.com
   <br>
   :four_leaf_clover:skill<br>
   <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=OpenJDK&logoColor=white"/>
