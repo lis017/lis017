@@ -7,6 +7,9 @@
   <br>
   minhyeok12.dev@gmail.com
   <br>
+   I'm currently learning Spring Boot
+  <br>
+  <br>
   :four_leaf_clover:skill<br>
   <img src="https://img.shields.io/badge/Java-3178C6?style=flat&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
