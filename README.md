@@ -15,6 +15,8 @@
   <br>
   <br>
   <br>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mick1022)](https://solved.ac/mick1022/)
   
 </div>
 
