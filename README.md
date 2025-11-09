@@ -10,7 +10,7 @@
 
   <br>
 
-  :pencil2: Studying<br>
+  :pencil2: Tech Stack<br>
 <img src="https://img.shields.io/badge/Spring Boot-3178C6?style=flat&logo=OpenJDK&logoColor=white"/>
   <br>
   <br>
